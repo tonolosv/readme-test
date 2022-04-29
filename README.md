@@ -77,3 +77,9 @@ Local
     <!--Esto solo se vera en github-->
 * [x] Task 1
 * [ ] Task 2
+    * [ ] task 2.1
+    * [ ] task 2.2
+* [ ] Taks 3
+
+<!--Mentio and emojis--> 
+@reypez :smiley:
